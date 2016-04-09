@@ -14,7 +14,7 @@ Thumbs.db
 *.ipr
 *.iws
 /.idea/
-
+target/
 
 # miscellaneous items#
 ######################
